@@ -501,7 +501,7 @@ Static-Routing-Failover-Akhila/
 ├── README.md
 ├── StaticRouting~AK.pkt
 └── screenshots/
-    ├── 01_Topology.png
+    ├── 01-Topology.png
 ``` 
 
 ---
@@ -510,7 +510,7 @@ Static-Routing-Failover-Akhila/
 
 ### Network Topology
 
-![Network Topology](screenshots/01_Topology.png)
+![Network Topology](screenshots/01-Topology.png)
 
 
 ---
