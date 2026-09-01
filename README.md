@@ -500,19 +500,9 @@ Static-Routing-Failover-Akhila/
 │
 ├── README.md
 ├── StaticRouting~AK.pkt
-├── Static_Routing_Failover_Report.pdf
-│
 └── screenshots/
     ├── 01_Topology.png
-    ├── 02_R1_Routing_Normal.png
-    ├── 03_Normal_Ping.png
-    ├── 04_Normal_Traceroute.png
-    ├── 05_Primary_Link_Failure.png
-    ├── 06_Backup_Route.png
-    ├── 07_Backup_Ping.png
-    ├── 08_Backup_Traceroute.png
-    └── 09_Restored_Primary.png
-```
+    
 
 ---
 
@@ -522,37 +512,6 @@ Static-Routing-Failover-Akhila/
 
 ![Network Topology](screenshots/01_Topology.png)
 
-### Normal Routing Table
-
-![Normal Routing Table](screenshots/02_R1_Routing_Normal.png)
-
-### Normal Ping
-
-![Normal Ping](screenshots/03_Normal_Ping.png)
-
-### Normal Traceroute
-
-![Normal Traceroute](screenshots/04_Normal_Traceroute.png)
-
-### Primary Link Failure
-
-![Primary Link Failure](screenshots/05_Primary_Link_Failure.png)
-
-### Backup Route
-
-![Backup Route](screenshots/06_Backup_Route.png)
-
-### Backup Ping
-
-![Backup Ping](screenshots/07_Backup_Ping.png)
-
-### Backup Traceroute
-
-![Backup Traceroute](screenshots/08_Backup_Traceroute.png)
-
-### Restored Primary Route
-
-![Restored Primary Route](screenshots/09_Restored_Primary.png)
 
 ---
 
